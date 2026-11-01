@@ -45,11 +45,11 @@ through hands-on experience
 
 ## Professional Certifications
 * **Data Analytics - Power BI Certified**  
-  *Issued by GOMYCODE * 
+  *Issued by GOMYCODE* 
 * **Certified in Cybersecurity**  
-  *Issued by ISC2 * 
+  *Issued by ISC2* 
 * **Introduction to Cybersecurity**  
-  *Issued by Moringa School * 
+  *Issued by Moringa School* 
 
 
 ---
