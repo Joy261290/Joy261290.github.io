@@ -8,7 +8,7 @@ order: 2
 
 ## Featured Projects
 
-### 1. Automated Exam Proctoring System
+### 1. Automated Exam Proctoring System 
 * **Domain:** Computer Vision & Full-Stack Development
 * **Tech Stack:** React, Python (Flask API), Hugging Face Facial Recognition, MySQL
 * **Overview:** Built a full-stack, real-time proctoring web application using React for the user dashboard and Python for the backend API, Integrated a pre-trained face recognition model from Hugging Face to authenticate student identity 
